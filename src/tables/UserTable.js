@@ -4,7 +4,7 @@ const UserTable = (props) => (
   <table>
     <thead>
       <tr>
-        <th>Name</th>
+        <th>Full Name</th>
         <th>Username</th>
         <th>City</th>
         <th>Is Admin</th>
