@@ -51,6 +51,7 @@ debugger
           <option value="">Select</option>
           <option value="Lucknow">Lucknow</option>
           <option value="Chandighar">Chandighar</option>
+          <option value="Chandighar">Mumbai</option>
       </select>
       {/* <input
         type="text"
